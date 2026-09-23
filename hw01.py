@@ -47,7 +47,7 @@ def main():
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
-    
+    # this program is meant to divide (3x-9y) by 2a(b-c)
     x = 27
     y = 1
     a = 1.5
@@ -67,6 +67,7 @@ def main():
     # Part 2: Power
     # =============================================
     # Your code for part 2 under this line and before the print statements
+    # this program is meant to multiply x^2 and y^4
     x = 5
     y = -3
     result2 = (x**2) * (y**4)
@@ -80,6 +81,7 @@ def main():
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
+    # this program is supposed to divide a by b
     a = 100
     b = 13
     result3 = (100 // 13)
@@ -92,6 +94,7 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+    # thus program is meant to calculate the remainder when a is divided by b
     result4 = (a % b)
     print ("Part 4: result =", result4)
 
