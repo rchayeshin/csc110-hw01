@@ -47,6 +47,7 @@ def main():
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
+    
     x = 27
     y = 1
     a = 1.5
@@ -69,8 +70,8 @@ def main():
     x = 5
     y = -3
     result2 = (x**2) * (y**4)
-    print ("Part 2: x =", x)
-    print ("Part 2: y =", y)
+    print ("Part 2: x =",  x)
+    print ("Part 2: y =",  y)
     print ("Part 2: result =", result2)
 
     # End of Part 2 ----------------------
